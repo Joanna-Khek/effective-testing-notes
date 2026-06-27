@@ -32,12 +32,12 @@ Please refer to the various READMEs for the respective topic.
 
 | Topic | Link |
 | :--- | :---: |
-| `doctest` | [Notes](src/tinylm/doctest/README.md) |
-| `pytest` | [Notes](src/tinylm/pytest/README.md) |
-| `unittest` | [Notes](src/tinylm/unittest/README.md) |
-| `xUnit` | [Notes](src/tinylm/xUnit/README.md) |
-| `TDD` | [Notes](src/tinylm/TDD/README.md) |
-| `monkeypatch` and `mocking` | [Notes](src/tinylm//monkeypatch_mocking/README.md) |
-| `coverage` | [Notes](src/tinylm/coverage/README.md)|
+| `doctest` | [Notes](tinylm/src/tinylm/doctest/README.md) |
+| `pytest` | [Notes](tinylm/src/tinylm/pytest/README.md) |
+| `unittest` | [Notes](tinylm/src/tinylm/unittest/README.md) |
+| `xUnit` | [Notes](tinylm/src/tinylm/xUnit/README.md) |
+| `TDD` | [Notes](tinylm/src/tinylm/TDD/README.md) |
+| `monkeypatch` and `mocking` | [Notes](tinylm/src/tinylm//monkeypatch_mocking/README.md) |
+| `coverage` | [Notes](tinylm/src/tinylm/coverage/README.md)|
 
 
