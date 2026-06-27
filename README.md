@@ -2,7 +2,7 @@
 
 This repository contains my notes on the [Effective Testing](https://store.metasnake.com/testing) book written by Matt Harrison.
 
-Some quotes I like from the book:
+Some quotes from the book that I personally like:
 > *"In an era where AI can generate code on demand, tests are no longer just a safety net, they are steering wheel. Clear, well-chosen tests guide the AI toward the behaviour that you actually want."*
 
 > *"If fixtures are painful to write, it might mean that the system under test is doing too much. We should treat fixture pain as a design signal so that we can make the code easier to test and easier to maintain."*
